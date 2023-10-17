@@ -1,0 +1,56 @@
+.btn{
+    padding: 1rem 2rem;
+    border: none;
+    font-size: 25px;
+    margin: 0 2rem;
+
+}
+
+.btn--default{
+    background: white;
+    color: gray;
+    outline: solid;
+    margin-left: 5rem;
+    border-radius: 8px;
+
+}
+
+.btn--primary{
+    background: white;
+    color: purple;
+    outline: solid;
+    border-radius: 8px;
+
+}
+
+.btn--success {
+    background: white;
+    color: #2ba048;
+    outline: solid;
+    border-radius: 8px;
+
+}
+
+.btn--info {
+    background: white;
+    color: skyblue;
+    outline: solid;
+    border-radius: 8px;
+
+}
+
+.btn--warning {
+    background: white;
+    color: gold;
+    outline: solid;
+    border-radius: 8px;
+
+}
+
+.btn--danger {
+    background: white;
+    color: red;
+    outline: solid;
+    border-radius: 8px;
+
+}
